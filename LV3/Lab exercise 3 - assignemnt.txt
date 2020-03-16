@@ -1,0 +1,1 @@
+Task of lab exercise 3 was to create a simple text editor. Required features were save, open, change font, and change font color. 
